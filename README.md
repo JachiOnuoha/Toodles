@@ -1,3 +1,2 @@
 # Toodles
-# Swift to-do List
-# For iPhones
+To-do List for iPhones written in Swift
